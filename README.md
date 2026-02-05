@@ -86,8 +86,6 @@ In practice, I’d try a 2-2-1 setup to check consistent convergence - it handle
 ---
 
 ## 📁 Files
-* **Full Documentation:** [Download NLDP_EX1.docx](./NLDP_EX1.docx)
-* **Source Code:** [Insert Link to Repository/File]
-
+* **Full Documentation:** [NLDP_EX1.docx](https://github.com/user-attachments/files/25098315/NLDP_EX1.docx)
 ---
 <p align="center">Made with ❤️ for Neural Network Learning</p>
